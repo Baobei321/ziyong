@@ -1,53 +1,72 @@
-# 直播源多仓配置
-# 每行一个直播源地址，影视仓可自动识别切换
-
-🦸┃tangTV「直播」
-https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u
-
-🐍┃易发港🇭🇰澳169169「直播」
-https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt
-
-🛳️️┃裤佬「仅移动网」
-https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg1.m3u
-
-🐍┃tangtang「直播」
-https://tangtang.ggff.net/m3u/jtv.m3u
-
-🥷┃合集TV「cloudflare」
-https://txt.jessietang.cc.cd/abc123
-
-🥷┃广东gdty「cloudflare」
-https://abc.junjuntang.ccwu.cc/abc123
-
-🥷┃央视卫视「cloudflare」
-https://txt.junchao.kdns.fr/abc123
-
-🐬┃锋云直播8888「直播」
-https://wget.la/https://raw.githubusercontent.com/807080747/zv/main/suale.txt
-
-🐬┃锋哥xTV「直播」
-https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源
-
-🪼┃老汤TV「直播」
-https://wget.la/https://raw.githubusercontent.com/alantang1977/iptv-auto/main/my02.txt
-
-🔫️┃大改「直播」
-https://cloud.7so.top/f/Bgw1H8/大改.txt
-
-🔫️┃龙壹「直播」
-http://210.245.166.84:1299/live/live.txt
-
-🚜┃陆城8888「直播」
-https://www.mpimg.cn/down.php/d74e5569cc12720ac2cf66a2a4d42d36.txt
-
-📠┃咪咕LITV「直播」
-https://wget.la/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my02.txt
-
-🐍┃海豚二「直播」
-https://wget.la/https://raw.githubusercontent.com/qingtingjjjjjjj/Jsnzkpgtv/main/ttest.txt
-
-🥬┃kimwang1978直播
-https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.txt
-
-🏓┃lalifeier-IPTV直播
-https://wget.la/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt
+{
+  "stores": [
+    {
+      "name": "🦸┃tangTV「直播」",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u"
+    },
+    {
+      "name": "🐍┃易发港🇭🇰澳169169「直播」",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+    },
+    {
+      "name": "🛳️️┃裤佬「仅移动网」",
+      "url": "https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg1.m3u"
+    },
+    {
+      "name": "🐍┃tangtang「直播」",
+      "url": "https://tangtang.ggff.net/m3u/jtv.m3u"
+    },
+    {
+      "name": "🥷┃合集TV「cloudflare」",
+      "url": "https://txt.jessietang.cc.cd/abc123"
+    },
+    {
+      "name": "🥷┃广东gdty「cloudflare」",
+      "url": "https://abc.junjuntang.ccwu.cc/abc123"
+    },
+    {
+      "name": "🥷┃央视卫视「cloudflare」",
+      "url": "https://txt.junchao.kdns.fr/abc123"
+    },
+    {
+      "name": "🐬┃锋云直播8888「直播」",
+      "url": "https://wget.la/https://raw.githubusercontent.com/807080747/zv/main/suale.txt"
+    },
+    {
+      "name": "🐬┃锋哥xTV「直播」",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源"
+    },
+    {
+      "name": "🪼┃老汤TV「直播」",
+      "url": "https://wget.la/https://raw.githubusercontent.com/alantang1977/iptv-auto/main/my02.txt"
+    },
+    {
+      "name": "🔫️┃大改「直播」",
+      "url": "https://cloud.7so.top/f/Bgw1H8/大改.txt"
+    },
+    {
+      "name": "🔫️┃龙壹「直播」",
+      "url": "http://210.245.166.84:1299/live/live.txt"
+    },
+    {
+      "name": "🚜┃陆城8888「直播」",
+      "url": "https://www.mpimg.cn/down.php/d74e5569cc12720ac2cf66a2a4d42d36.txt"
+    },
+    {
+      "name": "📠┃咪咕LITV「直播」",
+      "url": "https://wget.la/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my02.txt"
+    },
+    {
+      "name": "🐍┃海豚二「直播」",
+      "url": "https://wget.la/https://raw.githubusercontent.com/qingtingjjjjjjj/Jsnzkpgtv/main/ttest.txt"
+    },
+    {
+      "name": "🥬┃kimwang1978直播",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.txt"
+    },
+    {
+      "name": "🏓┃lalifeier-IPTV直播",
+      "url": "https://wget.la/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt"
+    }
+  ]
+}
