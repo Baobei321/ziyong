@@ -1,72 +1,72 @@
 {
-  "storeHouse": [
+  "stores": [
     {
-      "sourceName": "🦸┃tangTV「直播」",
-      "sourceUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u"
+      "name": "🦸┃tangTV「直播」",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u"
     },
     {
-      "sourceName": "🐍┃易发港🇭🇰澳169169「直播」",
-      "sourceUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+      "name": "🐍┃易发港🇭🇰澳169169「直播」",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
     },
     {
-      "sourceName": "🛳️️┃裤佬「仅移动网」",
-      "sourceUrl": "https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg1.m3u"
+      "name": "🛳️️┃裤佬「仅移动网」",
+      "url": "https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg1.m3u"
     },
     {
-      "sourceName": "🐍┃tangtang「直播」",
-      "sourceUrl": "https://tangtang.ggff.net/m3u/jtv.m3u"
+      "name": "🐍┃tangtang「直播」",
+      "url": "https://tangtang.ggff.net/m3u/jtv.m3u"
     },
     {
-      "sourceName": "🥷┃合集TV「cloudflare」",
-      "sourceUrl": "https://txt.jessietang.cc.cd/abc123"
+      "name": "🥷┃合集TV「cloudflare」",
+      "url": "https://txt.jessietang.cc.cd/abc123"
     },
     {
-      "sourceName": "🥷┃广东gdty「cloudflare」",
-      "sourceUrl": "https://abc.junjuntang.ccwu.cc/abc123"
+      "name": "🥷┃广东gdty「cloudflare」",
+      "url": "https://abc.junjuntang.ccwu.cc/abc123"
     },
     {
-      "sourceName": "🥷┃央视卫视「cloudflare」",
-      "sourceUrl": "https://txt.junchao.kdns.fr/abc123"
+      "name": "🥷┃央视卫视「cloudflare」",
+      "url": "https://txt.junchao.kdns.fr/abc123"
     },
     {
-      "sourceName": "🐬┃锋云直播8888「直播」",
-      "sourceUrl": "https://wget.la/https://raw.githubusercontent.com/807080747/zv/main/suale.txt"
+      "name": "🐬┃锋云直播8888「直播」",
+      "url": "https://wget.la/https://raw.githubusercontent.com/807080747/zv/main/suale.txt"
     },
     {
-      "sourceName": "🐬┃锋哥xTV「直播」",
-      "sourceUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源"
+      "name": "🐬┃锋哥xTV「直播」",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源"
     },
     {
-      "sourceName": "🪼┃老汤TV「直播」",
-      "sourceUrl": "https://wget.la/https://raw.githubusercontent.com/alantang1977/iptv-auto/main/my02.txt"
+      "name": "🪼┃老汤TV「直播」",
+      "url": "https://wget.la/https://raw.githubusercontent.com/alantang1977/iptv-auto/main/my02.txt"
     },
     {
-      "sourceName": "🔫️┃大改「直播」",
-      "sourceUrl": "https://cloud.7so.top/f/Bgw1H8/大改.txt"
+      "name": "🔫️┃大改「直播」",
+      "url": "https://cloud.7so.top/f/Bgw1H8/大改.txt"
     },
     {
-      "sourceName": "🔫️┃龙壹「直播」",
-      "sourceUrl": "http://210.245.166.84:1299/live/live.txt"
+      "name": "🔫️┃龙壹「直播」",
+      "url": "http://210.245.166.84:1299/live/live.txt"
     },
     {
-      "sourceName": "🚜┃陆城8888「直播」",
-      "sourceUrl": "https://www.mpimg.cn/down.php/d74e5569cc12720ac2cf66a2a4d42d36.txt"
+      "name": "🚜┃陆城8888「直播」",
+      "url": "https://www.mpimg.cn/down.php/d74e5569cc12720ac2cf66a2a4d42d36.txt"
     },
     {
-      "sourceName": "📠┃咪咕LITV「直播」",
-      "sourceUrl": "https://wget.la/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my02.txt"
+      "name": "📠┃咪咕LITV「直播」",
+      "url": "https://wget.la/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my02.txt"
     },
     {
-      "sourceName": "🐍┃海豚二「直播」",
-      "sourceUrl": "https://wget.la/https://raw.githubusercontent.com/qingtingjjjjjjj/Jsnzkpgtv/main/ttest.txt"
+      "name": "🐍┃海豚二「直播」",
+      "url": "https://wget.la/https://raw.githubusercontent.com/qingtingjjjjjjj/Jsnzkpgtv/main/ttest.txt"
     },
     {
-      "sourceName": "🥬┃kimwang1978直播",
-      "sourceUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.txt"
+      "name": "🥬┃kimwang1978直播",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.txt"
     },
     {
-      "sourceName": "🏓┃lalifeier-IPTV直播",
-      "sourceUrl": "https://wget.la/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt"
+      "name": "🏓┃lalifeier-IPTV直播",
+      "url": "https://wget.la/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt"
     }
   ]
 }
