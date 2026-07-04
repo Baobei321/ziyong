@@ -35,8 +35,7 @@
     {"name": "🚜┃陆城8888「直播」","type": 0,"url": "https://www.mpimg.cn/down.php/d74e5569cc12720ac2cf66a2a4d42d36.txt","playerType":1},
     {"name": "📠┃咪咕LITV「直播」","type": 0,"url": "https://wget.la/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my02.txt","playerType":1},
     {"name": "🐍┃海豚二「直播」","type": 0,"url": "https://wget.la/https://raw.githubusercontent.com/qingtingjjjjjjj/Jsnzkpgtv/main/ttest.txt","playerType":1},
-    {"name": "🥬┃kimwang1978直播","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.txt","playerType":1},
-    {"name": "🏓┃lalifeier-IPTV直播","type": 0,"url": "https://wget.la/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt","playerType":1}
+    {"name": "🥬┃kimwang1978直播","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.txt","playerType":1}
   ],
 
   "headers": [
