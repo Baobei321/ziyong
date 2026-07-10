@@ -61,7 +61,9 @@
     {"name":"🐬日本女优10🔞","type":0,"ua":"okhttp","url":"https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优10.m3u"},
     {"name":"🐬日本女优11🔞","type":0,"ua":"okhttp","url":"https://cloud.7so.top/f/RO04U5/%E4%B8%BD%E5%BD%B1%E7%90%BC%E5%A7%BF.m3u"},
     {"name":"🐬日本女优12🔞","type":0,"ua":"okhttp","url":"https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优12.m3u"},
-    {"name": "qingtingjjjjjjj「直播」","type": 0,"url": "https://github.com/qingtingjjjjjjj/iptv-auto-update/raw/refs/heads/main/my02.txt","playerType":1}
+    {"name": "qingtingjjjjjjj「直播」","type": 0,"url": "https://github.com/qingtingjjjjjjj/iptv-auto-update/raw/refs/heads/main/my02.txt","playerType":1},
+    {"name":"ctsfork1","type":0,"ua":"okhttp","url":"https://github.com/ctsfork/web/raw/refs/heads/main/iptv/hd-sex-all.txt"},
+    {"name":"ctsfork2","type":0,"ua":"okhttp","url":"https://raw.githubusercontent.com/ctsfork/web/refs/heads/main/iptv/color4-av-title.txt"}
   ],
 
   "headers": [
