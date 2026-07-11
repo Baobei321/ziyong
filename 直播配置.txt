@@ -37,7 +37,7 @@
     {"name": "🐍┃海豚二「直播」","type": 0,"url": "https://wget.la/https://wget.la/https://raw.githubusercontent.com/qingtingjjjjjjj/Jsnzkpgtv/main/ttest.txt","playerType":1},
     {"name": "🥬┃kimwang1978直播","type": 0,"url": "https://wget.la/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.txt","playerType":1},
     {"name": "atsushi444「直播」","type": 0,"url": "https://wget.la/https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/adult.m3u","playerType":1},
-    {"name": "atsushi444直播」","type": 0,"url": "https://wget.la/https://raw.githubusercontent.com/atsushi444/iptv/raw/refs/heads/main/ttt.m3u","playerType":1},
+    {"name": "atsushi444直播」","type": 0,"url": "https://wget.la/https://raw.githubusercontent.com/atsushi444/iptv/main/ttt.m3u","playerType":1},
     {"name": "潘多拉TV","type": 0,"url": "https://github.com/swhtv/111/raw/refs/heads/main/%E6%BD%98%E5%A4%9A%E6%8B%89TV","playerType":1},
     {"name": "shiran588「直播」","type": 0,"url": "https://github.com/shiran588/m3u/raw/refs/heads/main/22.m3u","playerType":1},
     {"name":"🐬俄罗斯源有🔞","type":0,"ua":"okhttp","url":"https://ilook.epg.one/EDTZN7ANS84N86"},
